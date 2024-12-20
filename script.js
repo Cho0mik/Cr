@@ -90,3 +90,4 @@ function displayMessages() {
     chatContainer.scrollTop = chatContainer.scrollHeight; // Scroll to the bottom
   });
 }
+//pls work
